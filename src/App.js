@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           New content
+          New content 2
         </a>
       </header>
     </div>
